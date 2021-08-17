@@ -1,4 +1,3 @@
-
 # Stacks
 
 This repository contains programs of Stack Data Structure in C.
